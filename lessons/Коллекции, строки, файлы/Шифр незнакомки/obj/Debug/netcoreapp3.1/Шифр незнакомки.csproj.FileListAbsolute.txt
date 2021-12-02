@@ -1,0 +1,14 @@
+/Users/ravdi/Ulearn/lessons/Коллекции, строки, файлы/Шифр незнакомки/bin/Debug/netcoreapp3.1/Шифр незнакомки
+/Users/ravdi/Ulearn/lessons/Коллекции, строки, файлы/Шифр незнакомки/bin/Debug/netcoreapp3.1/Шифр незнакомки.deps.json
+/Users/ravdi/Ulearn/lessons/Коллекции, строки, файлы/Шифр незнакомки/bin/Debug/netcoreapp3.1/Шифр незнакомки.runtimeconfig.json
+/Users/ravdi/Ulearn/lessons/Коллекции, строки, файлы/Шифр незнакомки/bin/Debug/netcoreapp3.1/Шифр незнакомки.runtimeconfig.dev.json
+/Users/ravdi/Ulearn/lessons/Коллекции, строки, файлы/Шифр незнакомки/bin/Debug/netcoreapp3.1/Шифр незнакомки.dll
+/Users/ravdi/Ulearn/lessons/Коллекции, строки, файлы/Шифр незнакомки/bin/Debug/netcoreapp3.1/Шифр незнакомки.pdb
+/Users/ravdi/Ulearn/lessons/Коллекции, строки, файлы/Шифр незнакомки/obj/Debug/netcoreapp3.1/Шифр незнакомки.csproj.AssemblyReference.cache
+/Users/ravdi/Ulearn/lessons/Коллекции, строки, файлы/Шифр незнакомки/obj/Debug/netcoreapp3.1/Шифр незнакомки.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravdi/Ulearn/lessons/Коллекции, строки, файлы/Шифр незнакомки/obj/Debug/netcoreapp3.1/Шифр незнакомки.AssemblyInfoInputs.cache
+/Users/ravdi/Ulearn/lessons/Коллекции, строки, файлы/Шифр незнакомки/obj/Debug/netcoreapp3.1/Шифр незнакомки.AssemblyInfo.cs
+/Users/ravdi/Ulearn/lessons/Коллекции, строки, файлы/Шифр незнакомки/obj/Debug/netcoreapp3.1/Шифр незнакомки.csproj.CoreCompileInputs.cache
+/Users/ravdi/Ulearn/lessons/Коллекции, строки, файлы/Шифр незнакомки/obj/Debug/netcoreapp3.1/Шифр незнакомки.dll
+/Users/ravdi/Ulearn/lessons/Коллекции, строки, файлы/Шифр незнакомки/obj/Debug/netcoreapp3.1/Шифр незнакомки.pdb
+/Users/ravdi/Ulearn/lessons/Коллекции, строки, файлы/Шифр незнакомки/obj/Debug/netcoreapp3.1/Шифр незнакомки.genruntimeconfig.cache
