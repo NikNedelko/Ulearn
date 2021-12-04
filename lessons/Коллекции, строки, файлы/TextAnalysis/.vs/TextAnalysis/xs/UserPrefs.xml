@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E7F5D985-677D-4246-BA75-4BAE24DF38B5}|Default">
+  <MonoDevelop.Ide.ItemProperties.TextAnalysis PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SentencesParserTask.cs">
+    <Files>
+      <File FileName="SentencesParserTask.cs" Line="47" Column="2" />
+      <File FileName="HarryPotterText.txt" Line="19" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TextAnalysis" expanded="True">
+            <Node name="TextAnalysis" expanded="True">
+              <Node name="SentencesParserTask.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

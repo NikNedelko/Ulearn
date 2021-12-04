@@ -1,0 +1,13 @@
+/Users/ravdi/Downloads/TextAnalysis/bin/Debug/HarryPotterText.txt
+/Users/ravdi/Downloads/TextAnalysis/bin/Debug/TextAnalysis.exe.config
+/Users/ravdi/Downloads/TextAnalysis/bin/Debug/TextAnalysis.exe
+/Users/ravdi/Downloads/TextAnalysis/bin/Debug/TextAnalysis.pdb
+/Users/ravdi/Downloads/TextAnalysis/bin/Debug/nunit.framework.dll
+/Users/ravdi/Downloads/TextAnalysis/bin/Debug/nunitlite.dll
+/Users/ravdi/Downloads/TextAnalysis/obj/Debug/TextAnalysis.csproj.AssemblyReference.cache
+/Users/ravdi/Downloads/TextAnalysis/obj/Debug/TextAnalysis.Properties.Resources.resources
+/Users/ravdi/Downloads/TextAnalysis/obj/Debug/TextAnalysis.csproj.GenerateResource.cache
+/Users/ravdi/Downloads/TextAnalysis/obj/Debug/TextAnalysis.csproj.CoreCompileInputs.cache
+/Users/ravdi/Downloads/TextAnalysis/obj/Debug/TextAnalysis.csproj.CopyComplete
+/Users/ravdi/Downloads/TextAnalysis/obj/Debug/TextAnalysis.exe
+/Users/ravdi/Downloads/TextAnalysis/obj/Debug/TextAnalysis.pdb
