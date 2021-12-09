@@ -1,0 +1,14 @@
+/Users/ravdi/Ulearn/lessons/Рекурсивные алгоритмы/Перестановки/bin/Debug/netcoreapp3.1/Перестановки
+/Users/ravdi/Ulearn/lessons/Рекурсивные алгоритмы/Перестановки/bin/Debug/netcoreapp3.1/Перестановки.deps.json
+/Users/ravdi/Ulearn/lessons/Рекурсивные алгоритмы/Перестановки/bin/Debug/netcoreapp3.1/Перестановки.runtimeconfig.json
+/Users/ravdi/Ulearn/lessons/Рекурсивные алгоритмы/Перестановки/bin/Debug/netcoreapp3.1/Перестановки.runtimeconfig.dev.json
+/Users/ravdi/Ulearn/lessons/Рекурсивные алгоритмы/Перестановки/bin/Debug/netcoreapp3.1/Перестановки.dll
+/Users/ravdi/Ulearn/lessons/Рекурсивные алгоритмы/Перестановки/bin/Debug/netcoreapp3.1/Перестановки.pdb
+/Users/ravdi/Ulearn/lessons/Рекурсивные алгоритмы/Перестановки/obj/Debug/netcoreapp3.1/Перестановки.csproj.AssemblyReference.cache
+/Users/ravdi/Ulearn/lessons/Рекурсивные алгоритмы/Перестановки/obj/Debug/netcoreapp3.1/Перестановки.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravdi/Ulearn/lessons/Рекурсивные алгоритмы/Перестановки/obj/Debug/netcoreapp3.1/Перестановки.AssemblyInfoInputs.cache
+/Users/ravdi/Ulearn/lessons/Рекурсивные алгоритмы/Перестановки/obj/Debug/netcoreapp3.1/Перестановки.AssemblyInfo.cs
+/Users/ravdi/Ulearn/lessons/Рекурсивные алгоритмы/Перестановки/obj/Debug/netcoreapp3.1/Перестановки.csproj.CoreCompileInputs.cache
+/Users/ravdi/Ulearn/lessons/Рекурсивные алгоритмы/Перестановки/obj/Debug/netcoreapp3.1/Перестановки.dll
+/Users/ravdi/Ulearn/lessons/Рекурсивные алгоритмы/Перестановки/obj/Debug/netcoreapp3.1/Перестановки.pdb
+/Users/ravdi/Ulearn/lessons/Рекурсивные алгоритмы/Перестановки/obj/Debug/netcoreapp3.1/Перестановки.genruntimeconfig.cache
