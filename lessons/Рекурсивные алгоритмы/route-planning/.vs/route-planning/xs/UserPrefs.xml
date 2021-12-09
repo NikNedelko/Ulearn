@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{96101A99-7963-4880-A2BF-FB52426EFE86}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PathFinderTask.cs">
+    <Files>
+      <File FileName="PathFinderTask.cs" Line="6" Column="119" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="route-planning" expanded="True">
+            <Node name="route-planning" expanded="True">
+              <Node name="PathFinderTask.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.route-planning PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ravdi/Ulearn/lessons/Рекурсивные алгоритмы/route-planning/PathFinderTask.cs" relfile="PathFinderTask.cs" line="21" column="1" />
+      <Breakpoint file="/Users/ravdi/Ulearn/lessons/Рекурсивные алгоритмы/route-planning/PathFinderTask.cs" relfile="PathFinderTask.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

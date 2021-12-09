@@ -21,7 +21,7 @@ namespace Перестановки
          };
 
         static void Evaluate(int[] permutation)
-        {
+        {//оцениваем цену перестановки
             int price = 0;
             for (int i = 0; i < permutation.Length; i++)      // кольцуем последний переезд
                 price += prices[permutation[i], permutation[(i + 1) % permutation.Length]];

@@ -34,18 +34,24 @@ namespace Брошенный_код
             if (position == permutation.Length)
             {
                 //доделать...
+                WritePermutation(permutation);
+                return;
             }
             else
             {
                 for (int i = 0; i < permutation.Length; i++)
                 {
                     var index = Array.IndexOf(permutation, i, 0, position);
+
                     //если i не встречается среди первых position элементов массива permutation, то index == -1
                     //иначе index — это номер позиции элемента i в массиве.
+
                     if (index == -1)
                     {
                         // если число i ещё не было использовано, то...
                         // доделать.
+                        permutation[position] = i;
+                        MakePermutations(permutation, position + 1, result);
 
                     }
                 }
