@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.TextAnalysis PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="SentencesParserTask.cs">
     <Files>
-      <File FileName="SentencesParserTask.cs" Line="34" Column="28" />
-      <File FileName="HarryPotterText.txt" Line="24" Column="41" />
+      <File FileName="SentencesParserTask.cs" Line="34" Column="1" />
+      <File FileName="HarryPotterText.txt" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,7 +20,9 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/ravdi/Ulearn/lessons/Коллекции, строки, файлы/TextAnalysis/SentencesParserTask.cs" relfile="SentencesParserTask.cs" line="34" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
