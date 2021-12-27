@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E80A9436-EF8E-450E-9C01-F5BC2566B01A}|Default">
+  <MonoDevelop.Ide.ItemProperties.PocketGoogle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Indexer.cs">
+    <Files>
+      <File FileName="Indexer.cs" Line="32" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PocketGoogle" expanded="True">
+            <Node name="PocketGoogle" expanded="True">
+              <Node name="Indexer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
