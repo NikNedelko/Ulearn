@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CC1C687A-2C3E-4D80-81A7-99D71F83BB53}|Default">
+  <MonoDevelop.Ide.ItemProperties.StructBenchmarking PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BenchmarkTask.cs">
+    <Files>
+      <File FileName="BenchmarkTask.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StructBenchmarking" expanded="True">
+            <Node name="StructBenchmarking" expanded="True">
+              <Node name="BenchmarkTask.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
