@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{38181845-7439-451A-BC6E-1DB5C403D168}|Default">
+  <MonoDevelop.Ide.ItemProperties.LimitedSizeStack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListModel.cs">
+    <Files>
+      <File FileName="LimitedSizeStack.cs" Line="14" Column="26" />
+      <File FileName="ListModel.cs" Line="13" Column="1" />
+      <File FileName="ListModel_should.cs" Line="69" Column="10" />
+      <File FileName="ListModel_PerformanceTest.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LimitedSizeStack" expanded="True">
+            <Node name="LimitedSizeStack" expanded="True">
+              <Node name="ListModel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

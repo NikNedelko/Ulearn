@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7A1C49BA-A936-44CB-B6C9-A28953D325FE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CloneVersionSystem.cs">
+    <Files>
+      <File FileName="CloneVersionSystem.cs" Line="6" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Clones" expanded="True">
+            <Node name="Clones" expanded="True">
+              <Node name="CloneVersionSystem.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Clones PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
