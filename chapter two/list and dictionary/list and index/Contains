@@ -1,0 +1,97 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+namespace contains_newLes
+{
+
+    public class MyList<T> : IEnumerable<T>
+    {
+        #region 
+        T[] array;
+        int count = 0;
+
+        public MyList()
+        {
+            array = new T[100];
+        }
+        void Enlarge()
+        {
+            throw new NotImplementedException();
+        }
+        public void Add(T items)
+        {
+            if (count == array.Length)
+                Enlarge();
+            array[count] = items;
+            count++;
+        }
+
+        public IEnumerator<T> GetEnumerator()
+        {
+            for (int i = 0; i < count; i++)
+                yield return array[i];
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
+        }
+
+        //индексация
+        public T this[int index]
+        {
+            get
+            {
+                if (index < 0 || index >= count) throw new IndexOutOfRangeException();
+                return array[index];
+            }
+            set
+            {
+                if (index < 0 || index >= count) throw new IndexOutOfRangeException();
+                array[index] = value;
+            }
+        }
+        public int Count { get { return count; } }
+        #endregion
+        public bool Contains(T element)
+        {
+            /*
+            foreach (var e in this)
+                if (e == element) return true;
+            return false;
+            */
+        }
+
+    }
+    class Point
+    {
+        public int X { get; set; }
+        public int Y { get; set; }
+
+        public override bool Equals(object obj)
+        {
+            if(!(obj is Point)) return false;
+            var p = obj as Point;
+            return X==p.X && Y==p.Y;
+        }
+    }
+
+    struct Size
+    {
+        public int Width { get; set; }
+        public int Height { get; set; }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var p1 = new Point { X = 1, Y = 1 };
+            var p2 = new Point { X = 1, Y = 1 };
+
+            var s1 = new Size { Width = 1, Height = 1 };
+            var s2 = new Size { Width = 1, Height = 1 }; 
+
+        }
+    }
+}

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7972F620-5846-42A6-AC4C-EDE3FB4C5940}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadonlyBytesTests.cs">
+    <Files>
+      <File FileName="ReadonlyBytes.cs" Line="21" Column="27" />
+      <File FileName="ReadonlyBytesTests.cs" Line="28" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hashes-readonly-bytes" expanded="True">
+            <Node name="hashes-readonly-bytes" expanded="True">
+              <Node name="ReadonlyBytesTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.hashes-readonly-bytes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

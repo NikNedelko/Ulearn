@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{7A1C49BA-A936-44CB-B6C9-A28953D325FE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../stack and queue/Clones/CloneVersionSystem.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="CloneVersionSystem.cs" Line="4" Column="4" />
+      <File FileName="CloneVersionSystem.cs" Line="32" Column="1" />
       <File FileName="CloneVersionSystem_should.cs" Line="10" Column="9" />
       <File FileName="ICloneVersionSystem.cs" Line="4" Column="3" />
       <File FileName="Program.cs" Line="10" Column="1" />
@@ -11,7 +11,7 @@
         <State name="__root__">
           <Node name="Clones" expanded="True">
             <Node name="Clones" expanded="True">
-              <Node name="CloneVersionSystem.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -22,7 +22,9 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/ravdi/Ulearn/chapter two/Clones/CloneVersionSystem.cs" relfile="CloneVersionSystem.cs" line="31" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
