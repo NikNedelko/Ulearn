@@ -7,8 +7,10 @@ namespace FuncAction
 
     class Program
     {
+        
         public static void Sort<T>(T[] array, Func<T,T,int> comparer)
         {
+
             for (int i = array.Length - 1; i > 0; i--)
             {
                 for (int j = 1; j <= i; j++)
@@ -45,6 +47,9 @@ namespace FuncAction
         static void Main()
         {
             var strings = new[] { "A", "B", "AA" };
+            var sdsd = "ksdkjf kjkjkj jkjkjkj kjkj";
+            var rdlList = sdsd.Split(' ');
+            
             //Sort(strings, new StringComparer(CompareLength));
             Sort(strings, CompareLength);
             var comparer = new AlphabeticComparer{Descending = false};

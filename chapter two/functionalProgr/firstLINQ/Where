@@ -1,0 +1,53 @@
+using System;
+using System.Collections.Generic;
+using System.Collections;
+namespace where
+{
+    class Student{
+        public string LastName{get;set;}
+        public string GroupName{get;set;}
+
+    }
+    public static class IEnumerableExtensions{
+        public static IEnumerable<T> Where<T>(this IEnumerable<T> enumerable,Func<T,bool> predicate){
+            foreach (var item in enumerable)
+            {
+                if(predicate(item))
+                yield return item;
+            }
+        }
+        public static IEnumerable<TOut> Select<TIn,TOut>
+        (this IEnumerable<TIn> enumerable,Func<TIn,TOut> selector){
+            foreach (var e in enumerable)
+            yield return selector(e);
+        }
+        public static List<T> ToList<T>(this IEnumerable<T> enumerable){
+            var list = new List<T>();
+            foreach (var e in enumerable)
+            list.Add(e);
+            return list;
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+             var students = new List<Student>{
+                 new Student{LastName = "Jones", GroupName = "FT-1"},
+                 new Student{LastName = "Adam", GroupName = "FT-1"},
+                 new Student{LastName = "Williams", GroupName = "KN-1"},
+                 new Student{LastName = "Brown", GroupName = "KN-1"}
+             };
+             var result = new List<string>();
+             foreach (var student in students)
+                if(student.GroupName == "KN-1")
+                result.Add(student.LastName);
+
+                var result1 = students
+                .Where(z=>z.GroupName == "KN-1") //filter
+                .Select(z=>z.LastName)
+                .ToList();// convert to list
+        }
+    }
+}

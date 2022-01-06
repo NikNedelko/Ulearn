@@ -47,19 +47,13 @@ namespace DgenericDelegstes
             bool Descending = true;
             //Sort(strings,(x,y) => x.CompareTo(y)* (Descending? -1 : 1));
             Func<string, string, int> comparer = (x, y) => x.CompareTo(y) * (Descending ? -1 : 1);
-            Sort(strings, comparer);
+            //Sort(strings, comparer);
             Descending = false;
-            Sort(strings, comparer);
+           // Sort(strings, comparer);
 
-            try
-            {
-                 
-            }
-            catch (System.Exception)
-            {
-            }
+
         }
-
+        
     }
 
 }

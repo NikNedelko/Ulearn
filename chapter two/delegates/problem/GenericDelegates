@@ -41,9 +41,10 @@ namespace DgenericDelegstes
         
 
 
-
+public static Hashtable hs = new Hashtable();
         static void Main()
         {
+            hs = new Hashtable();
             var strings = new[] { "A", "B", "AA" };
             //Sort(strings, new StringComparer(CompareLength));
             Sort(strings, CompareLength);
