@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C9444847-7E97-4B46-B7FC-72D18C5ABAF2}|Default">
+  <MonoDevelop.Ide.ItemProperties.maze PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="deepMaze.cs">
+    <Files>
+      <File FileName="deepMaze" Line="5" Column="2" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="maze" expanded="True">
+            <Node name="maze" expanded="True">
+              <Node name="deepMaze.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
