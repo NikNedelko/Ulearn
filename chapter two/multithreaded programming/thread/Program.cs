@@ -4,13 +4,14 @@ namespace thread
 {
     class Program
     {
-        static void MakeWord(int numbers)
+        static double MakeWord(int numbers)
         {
             double a = 1;
             for (int i = 0; i < 1000000; i++)
                 for (int j = 0; j < 10000; j++)
                     a /= 1.01;
             System.Console.WriteLine(numbers);
+            return a;
         }
         static void Main(string[] args)
         {
